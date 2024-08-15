@@ -62,7 +62,3 @@ In 2022, placed 19th abd In 2023, placed 6th
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Renbago/Renbago/output/snake.svg" alt="Snake animation" />
-  
-###
