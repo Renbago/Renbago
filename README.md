@@ -12,10 +12,11 @@ you can access The video series of Autonomus Vehicle from Youtube link. </p>
 <h2 align="left">ACHIEVEMENTS</h2>
 <strong>BOSCH FUTURE MOBILITY CHALLANGE</strong>
 
-International competition, named BOSCH Future Mobility Challenge. Out of 160 international and 8 national applications, we were accepted intothe final stage as the only team from Turkey and among the top 24 internationally.
+International competition, named BOSCH Future Mobility Challenge. Out of 160 international and 8 national applications, we were accepted into the final stage as the only team from Turkey and among the top 24 internationally.
 
 <strong>TEKNOFEST/ROBOTAKSİ</strong>
-In 2022, placed 19th abd In 2023, placed 6th
+
+In 2022, placed 19th and In 2023, placed 6th
 
 ###
 
