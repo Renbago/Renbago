@@ -63,6 +63,6 @@ In 2022, placed 19th abd In 2023, placed 6th
 
 ###
 
-<img src="https://raw.githubusercontent.com/Renbago/MehmetBahaDursun/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Renbago/Renbago/output/snake.svg" alt="Snake animation" />
   
 ###
