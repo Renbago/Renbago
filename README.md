@@ -6,8 +6,8 @@
 I graduated from Kocaeli University's Mechatronics Engineering department in 2024 and I am currently working at Saha Robotik, a company that produces waiter robots.
  
 I Experienced in autonomous vehicle technologies including model-based
-control, path estimation, dynamic models, and obstacle detection and
-you can access The video series of Autonomus Vehicle from Youtube link. </p>
+control, path estimation, dynamic models and obstacle detection.
+You can access The video series of Autonomus Vehicle from Youtube link. </p>
 
 <h2 align="left">ACHIEVEMENTS</h2>
 <strong>BOSCH FUTURE MOBILITY CHALLANGE</strong>
