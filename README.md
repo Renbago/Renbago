@@ -7,12 +7,12 @@ I graduated from Kocaeli University's Mechatronics Engineering department in 202
  
 I Experienced in autonomous vehicle technologies including model-based
 control, path estimation, dynamic models and obstacle detection.
-You can access The video series of Autonomus Vehicle from Youtube link. </p>
+You can access The video series of Autonomus Vehicle from [Youtube](https://www.youtube.com/watch?v=WsCecAzwwFc&list=PLDE_vDxu0Gkk-s3ndTqIScKTHSvL8dt0m). </p>
 
 <h2 align="left">ACHIEVEMENTS</h2>
 <strong>BOSCH FUTURE MOBILITY CHALLANGE</strong>
 
-International competition, named BOSCH Future Mobility Challenge. Out of 160 international and 8 national applications, we were accepted into the final stage as the only team from Turkey and among the top 24 internationally.
+International competition, named [BOSCH Future Mobility Challenge](https://boschfuturemobility.com/). Out of 160 international and 8 national applications, we were accepted into the final stage as the only team from Turkey and among the top 24 internationally. [Details](https://github.com/Renbago/autonomus_vehicle)
 
 <strong>TEKNOFEST/ROBOTAKSİ</strong>
 
