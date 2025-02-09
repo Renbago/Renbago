@@ -12,11 +12,11 @@ You can access The video series of Autonomus Vehicle from [Youtube](https://www.
 <h2 align="left">ACHIEVEMENTS</h2>
 <strong>BOSCH FUTURE MOBILITY CHALLANGE</strong>
 
-International competition, named [BOSCH Future Mobility Challenge](https://boschfuturemobility.com/). Out of 160 international and 8 national applications, we were accepted into the final stage as the only team from Turkey and among the top 24 internationally. [Details](https://github.com/Renbago/autonomus_vehicle)
+International competition, named [BOSCH Future Mobility Challenge](https://boschfuturemobility.com/). Out of 160 international and 8 national applications, we were accepted into the final stage as the only team from Turkey and among the top 24 internationally. [Code Details](https://github.com/Renbago/autonomus_vehicle)
 
 <strong>TEKNOFEST/ROBOTAKSİ</strong>
 
-In 2022, placed 19th and In 2023, placed 6th
+In 2022, placed 19th and In 2023, placed 6th, [Code Details](https://github.com/Renbago/autonomus_car_sim_base_ros2)
 
 ###
 
